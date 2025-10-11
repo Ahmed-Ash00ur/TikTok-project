@@ -1,4 +1,4 @@
-# Course 1 PACE Strategy Document
+# PACE Strategy Document
 
 ## PACE: Plan Stage
 

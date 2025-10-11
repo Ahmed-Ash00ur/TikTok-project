@@ -12,63 +12,63 @@ The project aims to address the large number of user reports on videos and comme
 
 **What questions need to be asked or answered?**
 
-- What features within the dataset are most effective at distinguishing a "claim" from an "opinion"?
-- What is the most suitable type of regression model for this classification task?
-- How can the assumptions of the chosen regression model be checked and validated?
-- What is the best method of hypothesis testing with this dataset?
-- What are the key findings and talking points that should be included in the final presentation to the leadership team?
-- How will the performance and reliability of the final machine learning model be measured?
+* What features within the dataset are most effective at distinguishing a "claim" from an "opinion"?
+* What is the most suitable type of regression model for this classification task?
+* How can the assumptions of the chosen regression model be checked and validated?
+* What is the best method of hypothesis testing with this dataset?
+* What are the key findings and talking points that should be included in the final presentation to the leadership team?
+* How will the performance and reliability of the final machine learning model be measured?
 
 **What resources are required to complete this project?**
 
-- **Personnel:** The project will require the involvement of the data team (Data Science Manager, Lead, Scientist) and the Project Management Officer.
-- **Data:** Access to the dataset containing user-reported videos and comments is necessary.
-- **Software & Tools:** Python will be the primary programming language for this project, as suggested by the Data Science Manager, Rosie Mae Bradshaw.
+* **Personnel:** The project will require the involvement of the data team (Data Science Manager, Lead, Scientist) and the Project Management Officer.
+* **Data:** Access to the dataset containing user-reported videos and comments is necessary.
+* **Software & Tools:** Python will be the primary programming language for this project, as suggested by the Data Science Manager, Rosie Mae Bradshaw.
 
 **What are the deliverables that will need to be created over the course of this project?**
 
-- [cite_start]Complete the PACE Strategy Document to plan your project while considering your audience members, teammates, key milestones, and overall project goal. [cite: 9]
-- [cite_start]Create a project proposal for the data team. [cite: 10]
-- A global document identifying project deliverables and milestones for stakeholders.
-- An Exploratory Data Analysis (EDA) report detailing initial findings from the data.
-- Visualizations to share with TikTok executives.
-- A reliable, final machine learning model for claim classification.
-- A final report and presentation communicating insights and model performance to all stakeholders.
+* Complete the PACE Strategy Document to plan your project while considering your audience members, teammates, key milestones, and overall project goal.
+* Create a project proposal for the data team.
+* A global document identifying project deliverables and milestones for stakeholders.
+* An Exploratory Data Analysis (EDA) report detailing initial findings from the data.
+* Visualizations to share with TikTok executives.
+* A reliable, final machine learning model for claim classification.
+* A final report and presentation communicating insights and model performance to all stakeholders.
 
 ## Project tasks
 
-[cite_start]**Evaluating the model**[cite: 40]: **Construct**
-- **Why did you select this stage for this task?** Model evaluation is an essential part of the Construct stage. It involves testing the model's performance and reliability to ensure it meets the project's objectives before it is finalized.
+**Evaluating the model**: **Construct**
+* **Why did you select this stage for this task?** Model evaluation is an essential part of the Construct stage. It involves testing the model's performance and reliability to ensure it meets the project's objectives before it is finalized.
 
-[cite_start]**Conduct hypothesis testing**[cite: 42]: **Analyze** and **Construct**
-- **Why did you select these stages for this task?** Hypothesis testing is conducted in the Analyze stage to explore initial relationships within the data. It is also used in the Construct stage to validate the model and the statistical significance of its results.
+**Conduct hypothesis testing**: **Analyze** and **Construct**
+* **Why did you select these stages for this task?** Hypothesis testing is conducted in the Analyze stage to explore initial relationships within the data. It is also used in the Construct stage to validate the model and the statistical significance of its results.
 
-[cite_start]**Begin exploring the data**[cite: 44]: **Analyze**
-- **Why did you select this stage for this task?** This is a foundational activity of the Analyze stage, where the team gets familiar with the dataset to understand its structure, contents, and initial patterns.
+**Begin exploring the data**: **Analyze**
+* **Why did you select this stage for this task?** This is a foundational activity of the Analyze stage, where the team gets familiar with the dataset to understand its structure, contents, and initial patterns.
 
-[cite_start]**Data exploration and cleaning**[cite: 46]: **Analyze** and **Construct**
-- **Why did you select these stages for this task?** Exploration is central to the Analyze stage. Cleaning begins during the Analyze stage but often continues into the Construct stage as data is preprocessed and prepared for the specific requirements of the model.
+**Data exploration and cleaning**: **Analyze** and **Construct**
+* **Why did you select these stages for this task?** Exploration is central to the Analyze stage. Cleaning begins during the Analyze stage but often continues into the Construct stage as data is preprocessed and prepared for the specific requirements of the model.
 
-[cite_start]**Establish structure for project workflow (PACE)**[cite: 48]: **Plan**
-- **Why did you select this stage for this task?** Defining the project's workflow is a key strategic activity that occurs in the Plan stage to ensure the project is organized and has a clear path forward.
+**Establish structure for project workflow (PACE)**: **Plan**
+* **Why did you select this stage for this task?** Defining the project's workflow is a key strategic activity that occurs in the Plan stage to ensure the project is organized and has a clear path forward.
 
-[cite_start]**Communicate final insights with stakeholders**[cite: 50]: **Execute**
-- **Why did you select this stage for this task?** The Execute stage is dedicated to delivering the final project outcomes. This includes presenting the model's results and actionable insights to stakeholders.
+**Communicate final insights with stakeholders**: **Execute**
+* **Why did you select this stage for this task?** The Execute stage is dedicated to delivering the final project outcomes. This includes presenting the model's results and actionable insights to stakeholders.
 
-[cite_start]**Compute descriptive statistics**[cite: 52]: **Analyze**
-- **Why did you select this stage for this task?** Computing descriptive statistics is a core task in the Analyze stage. It provides a summary of the data's main features, which is crucial for EDA.
+**Compute descriptive statistics**: **Analyze**
+* **Why did you select this stage for this task?** Computing descriptive statistics is a core task in the Analyze stage. It provides a summary of the data's main features, which is crucial for EDA.
 
-[cite_start]**Visualization building**[cite: 54]: **Analyze** and **Execute**
-- **Why did you select these stages for this task?** Visualizations are created during the Analyze stage to help the team explore data and uncover insights. They are also built during the Execute stage to communicate findings clearly in reports and presentations to stakeholders.
+**Visualization building**: **Analyze** and **Execute**
+* **Why did you select these stages for this task?** Visualizations are created during the Analyze stage to help the team explore data and uncover insights. They are also built during the Execute stage to communicate findings clearly in reports and presentations to stakeholders.
 
-[cite_start]**Write a project proposal**[cite: 56]: **Plan**
-- **Why did you select this stage for this task?** The project proposal is a key deliverable of the Plan stage. It formally outlines the project's goals, scope, milestones, and tasks for all team members and stakeholders.
+**Write a project proposal**: **Plan**
+* **Why did you select this stage for this task?** The project proposal is a key deliverable of the Plan stage. It formally outlines the project's goals, scope, milestones, and tasks for all team members and stakeholders.
 
-[cite_start]**Build a regression model**[cite: 58]: **Analyze** and **Construct**
-- **Why did you select these stages for this task?** Insights gathered during the Analyze stage inform the decisions made during the Construct stage, which is where the regression model is actually built, trained, and refined.
+**Build a regression model**: **Analyze** and **Construct**
+* **Why did you select these stages for this task?** Insights gathered during the Analyze stage inform the decisions made during the Construct stage, which is where the regression model is actually built, trained, and refined.
 
-[cite_start]**Compile summary information about the data**[cite: 60]: **Analyze**
-- **Why did you select this stage for this task?** This is a preliminary step in the Analyze stage that provides a high-level overview of the dataset, forming the basis for more in-depth exploratory analysis.
+**Compile summary information about the data**: **Analyze**
+* **Why did you select this stage for this task?** This is a preliminary step in the Analyze stage that provides a high-level overview of the dataset, forming the basis for more in-depth exploratory analysis.
 
-[cite_start]**Build machine learning model**[cite: 62]: **Construct**
-- **Why did you select this stage for this task?** The Construct stage is where the theoretical plans and data insights are turned into a tangible product, which in this case is the machine learning model.
+**Build machine learning model**: **Construct**
+* **Why did you select this stage for this task?** The Construct stage is where the theoretical plans and data insights are turned into a tangible product, which in this case is the machine learning model.
